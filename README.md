@@ -4,7 +4,7 @@
 
 本仓库下华中科技大学计算机学院接口技术实验所需的所有文件
 
-实验的网站在[这里](http://live_once.gitee.io/cs_hust_jiekou)
+实验的网站在[这里](http://live_once.gitee.io/HUST_cs_jiekou)
 
 用的是Gitee+Hexo模式，模板为next
 
